@@ -41,7 +41,15 @@ div.phone {
   display: flex;
   flex-direction: column;
 }
-
+div.message {
+  display: flex;
+  flex-direction: column;
+}
 textarea {
+  /* max-height: 300px;
+  max-width: 650px;
+  min-height: 600px;
+  min-height: 200px; */
   resize: none;
+  width: 100%;
 }
