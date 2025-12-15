@@ -40,10 +40,14 @@ div.email,
 div.phone {
   display: flex;
   flex-direction: column;
+  margin-top: 40px;
+  gap: 10px;
 }
 div.message {
   display: flex;
   flex-direction: column;
+  margin-top: 40px;
+  gap: 10px;
 }
 textarea {
   /* max-height: 300px;
